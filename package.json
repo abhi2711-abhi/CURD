@@ -1,0 +1,17 @@
+{
+  "name": "folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.11",
+    "mongoose": "^5.13.7",
+    "monodb": "^1.5.1"
+  }
+}
